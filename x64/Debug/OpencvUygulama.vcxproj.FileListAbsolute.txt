@@ -1,0 +1,2 @@
+C:\Users\rootx\source\repos\OpencvUygulama\x64\Debug\OpencvUygulama.exe
+C:\Users\rootx\source\repos\OpencvUygulama\x64\Debug\OpencvUygulama.pdb

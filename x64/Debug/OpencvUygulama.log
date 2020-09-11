@@ -1,0 +1,4 @@
+﻿  TestCV.cpp
+C:\Users\rootx\source\repos\OpencvUygulama\TestCV.cpp(76,20): warning C4101: 'maxVal2': yerel değişken başvurusu kaldırıldı
+C:\Users\rootx\source\repos\OpencvUygulama\TestCV.cpp(75,20): warning C4101: 'minVal2': yerel değişken başvurusu kaldırıldı
+  OpencvUygulama.vcxproj -> C:\Users\rootx\source\repos\OpencvUygulama\x64\Debug\OpencvUygulama.exe
